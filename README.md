@@ -135,4 +135,4 @@ Projet réalisé en binôme, avec une contribution équitable (50/50). Les deux 
 | Membre | Contribution |
 |--------|--------------|
 | Oumaima | 50 % — pipeline dbt, dashboard, documentation (en binôme) |
-| *[Nom du binôme]* | 50 % — pipeline dbt, dashboard, documentation (en binôme) |
+| Taieb| 50 % — pipeline dbt, dashboard, documentation (en binôme) |
