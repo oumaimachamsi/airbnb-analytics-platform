@@ -10,3 +10,5 @@ airbnb_dbt/dbt_packages/
 airbnb_dbt/logs/
 
 logs/
+
+data/

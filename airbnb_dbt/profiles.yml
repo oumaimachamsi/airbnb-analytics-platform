@@ -1,0 +1,7 @@
+﻿airbnb_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../airbnb.duckdb
+      threads: 4

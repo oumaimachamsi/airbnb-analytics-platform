@@ -1,0 +1,25 @@
+﻿version: 2
+
+models:
+  - name: sl_hosts
+    columns:
+      - name: host_id
+        tests:
+          - unique
+          - not_null
+
+  - name: sl_listings
+    columns:
+      - name: listing_id
+        tests:
+          - unique
+          - not_null
+      - name: host_id
+        tests:
+          - not_null
+
+  - name: sl_reviews
+    columns:
+      - name: listing_id
+        tests:
+          - not_null
